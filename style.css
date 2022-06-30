@@ -1,0 +1,31 @@
+body {
+    background-size: cover;
+}
+span {
+    font-size: 30px;
+    color:blueviolet;
+}
+b {
+    background-color: orange;
+    
+}
+#status {
+    font-size: 30px;
+}
+#if_found {
+    font-size: 30px;
+}
+canvas {
+    border:5px solid black;
+}
+h1 {
+    background-color:aqua ;
+    color: white;
+    font-weight: bold;
+    width:500px;
+    border-radius: 30px;
+}
+#note {
+    color: blue;
+    font-size: 30px;
+}
